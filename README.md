@@ -26,5 +26,6 @@ Referencias e artigos  de alguns sites vão ser linkados abaixo.
 - links 
   - https://www.bosontreinamentos.com.br/linux/10-exemplos-do-comando-rsync-para-backup-e-sincronismo-de-arquivos-no-linux/
   - https://www.vivaolinux.com.br/script/Backup-incremental-com-rsync
+  - https://blog.4linux.com.br/introducao-ao-lvm/
   - 
 
