@@ -28,5 +28,7 @@ Referencias e artigos  de alguns sites vão ser linkados abaixo.
   - https://www.vivaolinux.com.br/script/Backup-incremental-com-rsync
   - https://blog.4linux.com.br/introducao-ao-lvm/
   - https://www.certificacaolinux.com.br/como-aumentar-o-disco-no-linux/
+  - https://www.vivaolinux.com.br/script/Fazendo-backup-e-compactando
+  - https://www.lucaslinux.com/post/instalando-servidor-de-arquivos-samba
   - 
 
