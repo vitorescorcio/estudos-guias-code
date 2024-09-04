@@ -9,15 +9,15 @@ Este Repositorio contem:
 O repositorio funciona como um guia de estudos falicitando a pesquisa na internet. 
 
 Linguagens : 
-  -Shell script
-  -Python
-  -Comandos unix
+  - Shell script
+  - Python
+  - Comandos unix
 
 Serviços:
-  -dns 
-  -rsync
-  -smb
-  -crontab
+  - dns 
+  - rsync
+  - smb
+  - crontab
 
 Outros:
 introdução ao fortinet 
